@@ -1,0 +1,58 @@
+body
+{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.sub-title
+{
+    color: #000;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 50px;
+    text-transform: uppercase;
+    padding-left: 4px;
+    background-color: rgb(0,255,0,0.3);
+}
+.sub-title:hover
+{ background-color: rgb(0,255,0,0.5); }
+
+.inst
+{
+    color: #0699d4;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+.year
+{
+    color: #0699d4;
+    font-size: 15px;
+    line-height: 15px;
+    text-transform: uppercase;
+}
+
+.percent
+{
+    color: #0699d4;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 30px;
+    text-transform: uppercase;
+    display: inline;
+    padding-right: 10%;
+}
+
+.sub-details1,
+.sub-details2,
+.sub-details3
+{
+    background-color: rgb(154, 111, 111,0.15);
+    padding: 5px 0px 5px 5px;
+}
+.sub-details1:hover,
+.sub-details2:hover,
+.sub-details3:hover
+{ background-color: rgb(154, 111, 111,0.3); }
+

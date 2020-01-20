@@ -1,0 +1,83 @@
+@media only screen and (max-width: 1200px){
+    
+    .photo
+    { margin-top: 48px; }
+    .option
+    { font-size: 10px; }
+    .option:focus, .active
+    { font-size: 12px; }
+    .date, .time
+    { font-size: 18px; }
+    .name
+    { font-size: 32px; }
+    
+}
+@media only screen and (max-width: 1023px){
+    
+    body
+    { background-color: #FFF; }
+    .photo
+    { margin-top: 48px; }
+    .action
+    {
+        width: 100%;
+        margin-left: -8px;        
+    }
+    .option
+    { font-size: 12px; }
+    .option:focus, .active
+    { font-size: 14px; }
+    .date, .time
+    { font-size: 18px; }
+    .name
+    { font-size: 30px; }    
+
+}
+@media only screen and (max-width: 680px){
+    
+    .action
+    { width: 100%; }
+    .photo
+    { margin-top: 55px; }
+    .option
+    { font-size: 10px; }
+    .option:focus, .active
+    { font-size: 12px; }
+    .date, .time
+    { font-size: 15px; }
+    .name
+    { font-size: 20px; }
+    
+}
+@media only screen and (max-width: 615px){
+    
+    .action
+    { width: 100%; }
+    .photo
+    { margin-top: 57px; }
+    .option
+    { font-size: 10px; }
+    .option:focus, .active
+    { font-size: 12px; }
+    .date, .time
+    { font-size: 13px; }
+    .name
+    { font-size: 18px; }
+    
+}
+@media only screen and (max-width: 597px){
+    
+    .action
+    { width: 100%; }
+    .photo
+    { margin-top: 57px; }
+    .option
+    { font-size: 8px; }
+    .option:focus, .active
+    { font-size: 10px; }
+    .date, .time
+    { font-size: 12px; }
+    .name
+    { font-size: 16px; }
+    
+}
